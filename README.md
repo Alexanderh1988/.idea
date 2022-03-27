@@ -1,0 +1,2 @@
+# .idea
+ Microsfot Email Connector
